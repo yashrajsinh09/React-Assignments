@@ -1,0 +1,15 @@
+
+button {
+    margin: 60px;
+    font-size: 28px;
+}
+
+button:hover {
+    background-color: yellow;
+}
+
+ p {
+  padding-left: 35%;
+  font-size: 28px;
+  background-color: rgb(149, 10, 10);
+}  

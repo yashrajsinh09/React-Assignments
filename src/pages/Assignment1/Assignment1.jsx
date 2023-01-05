@@ -26,7 +26,7 @@ this.state = {
         >
           Convert to UpperCase</button>
         <br />
-        {this.state.showParagraph && <p>{this.state.input.toUpperCase()}</p>}
+        {this.state.showParagraph && <p className='a1'>{this.state.input.toUpperCase()}</p>}
       </div>
     )
   }
