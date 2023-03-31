@@ -12,13 +12,3 @@ code {
     monospace;
 }
 
-
-.container {
-    margin: auto;
-    width: 500px;
-    height: 500px;
-    padding: 50px;
-    border: 2px solid #192e58;
-    background-color: #0049b7;
-    box-shadow: #192e58 5px 2px 10px 1px;
-}
