@@ -9,6 +9,8 @@ export default function HomePage() {
       <a href="/counter"> ➜ Assignment-counter</a>
       <br /> <br />
       <a href="/calc"> ➜ Calculator</a>
+      <br /> <br />
+      <a href="/table"> ➜ Table Generator</a>
     </div>
   );
 }
